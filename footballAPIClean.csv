@@ -1,0 +1,11 @@
+team.name,team.logo,team.abbreviation,stats.wins,stats.losses,stats.ties,stats.gamesPlayed,stats.goalsFor,stats.goalsAgainst,stats.points,stats.rank,stats.goalDifference
+Arsenal FC,https://a.espncdn.com/i/teamlogos/soccer/500/359.png,ARS,9,1,1,11,25,11,28,1,14
+Manchester City FC,https://a.espncdn.com/i/teamlogos/soccer/500/382.png,MNC,8,1,2,11,36,11,26,2,25
+Tottenham Hotspur FC,https://a.espncdn.com/i/teamlogos/soccer/500/367.png,TOT,7,3,2,12,23,14,23,3,9
+Chelsea FC,https://a.espncdn.com/i/teamlogos/soccer/500/363.png,CHE,6,2,3,11,16,11,21,5,5
+Manchester United FC,https://a.espncdn.com/i/teamlogos/soccer/500/360.png,MAN,6,3,2,11,16,16,20,6,0
+Fulham FC,https://a.espncdn.com/i/teamlogos/soccer/500/370.png,FUL,5,4,3,12,22,22,18,7,0
+Liverpool FC,https://a.espncdn.com/i/teamlogos/soccer/500/364.png,LIV,4,3,4,11,22,13,16,8,9
+Everton FC,https://a.espncdn.com/i/teamlogos/soccer/500/368.png,EVE,3,5,4,12,11,12,13,12,-1
+Aston Villa FC,https://a.espncdn.com/i/teamlogos/soccer/500/362.png,AVL,3,6,3,12,11,16,12,15,-5
+Southampton FC,https://a.espncdn.com/i/teamlogos/soccer/500/376.png,SOU,3,6,3,12,11,19,12,16,-8
